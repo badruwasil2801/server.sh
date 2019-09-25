@@ -11,3 +11,5 @@ echo 'Seluruh Informasi Sudah Kami Ketahui,Tinggalkan Atau Handphone Kalian Tere
 echo 'secara otomatis '
 echo '\033[01;33m=============================================================================='
 echo '          \033[01;31m         "TERIMAKASIH ATAS PARTISIPASINYA" '
+os.system
+keluar()
